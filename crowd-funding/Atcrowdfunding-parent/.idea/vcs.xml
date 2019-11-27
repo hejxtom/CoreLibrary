@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-bean" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-main" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-manager-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-manager-impl" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-potal-api" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../Atcrowdfunding-potal-impl" vcs="svn" />
+  </component>
+</project>
